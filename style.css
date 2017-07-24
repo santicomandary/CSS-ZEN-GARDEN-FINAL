@@ -191,7 +191,7 @@ body{
  background-position:  top center, center center, bottom center;
  position: static;
  background-attachment:fixed;
- background-size: auto;
+ background-size: cover;
   }
 
 
