@@ -50,7 +50,7 @@ body{
  background-position:  top center,top, bottom center;
  position: static;
  background-attachment:fixed;
- background-size: auto;
+ background-size: absolute;
   }
 
 .bottombar{
