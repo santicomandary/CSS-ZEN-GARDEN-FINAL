@@ -50,7 +50,7 @@ body{
  background-position:  top center,top, bottom center;
  position: static;
  background-attachment:fixed;
- background-size: cover;
+ background-size: auto;
   }
 
 .bottombar{
@@ -191,7 +191,7 @@ body{
  background-position:  top center, center center, bottom center;
  position: static;
  background-attachment:fixed;
- background-size: absolute;
+ background-size: auto;
   }
 
 
@@ -352,19 +352,6 @@ background:#34A777;
 
 
   }
-  body{
- background-image:
-   url(https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/20155770_10213929920062968_2592210745104654631_n.jpg?oh=73b8069a5ad7ff417268830cb602b92c&oe=59F744D9),
-  url(),
-  url(https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/20140087_10213929921343000_1801887784473242627_n.jpg?oh=cafa8df090a855ac8f4af04c44bb108f&oe=5A059760);
 
-  
- background-repeat: no-repeat, no-repeat, no-repeat;
- background-blend-mode: multiply, multiply, multiply;
- background-color: #34A777;
- background-position:  top center, center center, bottom center;
- position: static;
- background-attachment:fixed;
- background-size: absolute;
   }
   }
